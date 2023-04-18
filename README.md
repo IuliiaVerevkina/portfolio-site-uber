@@ -1,6 +1,6 @@
 # Portfolio web-site UBER
 
-[DEMO](https://github.com/IuliiaVerevkina/portfolio-uber-site/new/master?readme=1)
+[DEMO](https://github.com/IuliiaVerevkina/portfolio-uber-site/)
 
 For development as the main tools I used:
 * HTML
